@@ -1,4 +1,2 @@
-ANEXO IX
-
 Link de acceso al codigo fuente del frontend plataforma Cloud
 https://github.com/SebastianVN/PlataformaCLOUD-Tesis/blob/master/Anexo9%20FrontendDjangoCloud.rar
